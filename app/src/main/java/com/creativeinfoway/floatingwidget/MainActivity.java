@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
          **/
 
         if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.M && !Settings.canDrawOverlays(this)){
-
             /**
              * if the draw over permission is not available open the settings screen
              * to grant the permission.
