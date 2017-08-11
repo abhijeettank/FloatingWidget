@@ -14,7 +14,7 @@ import com.creativeinfoway.floatingwidget.Service.FloatingViewService;
 public class MainActivity extends AppCompatActivity {
 
     private static final int CODE_DRAW_OVER_OTHER_APP_PERMISSION=2084;
-
+//comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
